@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "zreso",
+    "name": "ZReso",
+    "description": "Resolution control mod for Minecraft 1.8.9",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["ZReso"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
